@@ -1,0 +1,17 @@
+node_modules
+	
+*.iml
+.idea
+#windows
+Thumbs.db
+Desktop.ini
+and
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+log.txt
+# Mac
+.DS_Store
+platforms/
+plugins/
