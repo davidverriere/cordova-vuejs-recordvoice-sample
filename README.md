@@ -1,5 +1,6 @@
-# cordova-vuejs2-camera-sample
-This project is a sample to use camera with apache cordova and vue.js 2
+# cordova-vuejs2-recordvoice-sample
+This project is a sample to use media plugin to record and play voice on Android or iOS
+Note : it does not work on browser
 
 usage 
 ```bash
